@@ -1,0 +1,36 @@
+<meta charset="UTF-8">
+
+<script>
+
+   
+    function puloLinha(){
+
+        document.write("<br>" + "<hr>" + "<br>");
+     }
+
+    function mostrar(frase) {
+
+        document.write("<big>" + frase + "</big>");
+        puloLinha()
+    }
+
+    var vitorias = parseInt(prompt("quantas vitorias tem o seu time? "));
+    var empates = parseInt(prompt("quantos empates tem o seu time? "))
+    
+    var pontos = (vitorias*3) + empates;
+
+    if pontos > 28:
+        mostrar("seu time esta melhor do que ano passado")
+    if pontos < 28:
+        mostrar("seu time esta pior que do ano passado")
+    if pontos == 28
+        mostrar("seu time esta igual ao ano passado")
+
+    mostrar("os pontos do seu time é: " +pontos);
+
+
+
+
+
+
+</script>
