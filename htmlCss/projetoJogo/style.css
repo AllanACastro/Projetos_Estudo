@@ -1,0 +1,216 @@
+header {
+	background: #FFFFFF;
+	padding : 20px 0;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto 
+}
+
+h1 img{
+	width: 20%;
+}
+
+.tituloCenter{
+	padding-left: 20px;
+	text-align: center;
+}
+
+#banner{
+	width: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.principal{
+	background: #FFFFFF;
+	padding: 30px;
+}
+
+p { 
+	text-align: center;
+}
+
+#missao{
+	font-size: 20px;
+} 
+
+em strong{
+	color: #000000;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px; 
+}
+
+.lista1{
+	text-align: center;
+	display: inline;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+nav {
+	position: absolute;
+	top: 130px;
+	right: 0px;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+li a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+
+}
+
+li img{
+	width: 200px;
+}
+
+nav a:hover{
+	color: #CCFFCC;
+	text-decoration: underline;
+}
+
+.jogos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.jogos li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 20px;
+}
+
+.jogos li:hover{
+	border-color: #CCFFCC;
+}
+
+.jogos li:hover h2{
+	font-size: 34px
+}
+
+.jogos li:active{
+	border-color: #00DD00;
+}
+
+.jogos h2{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.Jogo{
+	font-size: 20px;
+}
+
+.Play{
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+footer{
+	text-align: center;
+	background: url("bg.jpg");
+	padding:40px 0;
+}
+
+footer img{
+	width: 80px;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin-top: 20px;
+}
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form{
+	margin: 40px 0;
+}
+
+form label, form legend {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-padrao{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+
+}
+
+.checkbox{
+	margin: 20px 0;
+
+}
+
+.enviar{
+	width: 40%;
+	padding: 15px 0;
+	background: darkred;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.enviar:hover{
+	background: green;
+	transform: scale(1.1);
+}
+
+table{
+	margin: 20px 40px;
+}
+
+thead{
+	background: #555555;
+	color: white;
+	font-weight: bold;
+}
+
+td, th{
+	border:1px solid #000000;
+	padding: 8px 15px; 
+}
+
+.tituloCenter{
+	font-size: 20px;
+	text-align: center;
+}
