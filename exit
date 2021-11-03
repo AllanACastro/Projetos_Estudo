@@ -1,0 +1,75 @@
+[33mcommit 26620e62d2a681477942737ce194559852fb0e58[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Fri May 14 17:56:35 2021 -0300
+
+    adicionando pasta de phyton
+
+[33mcommit 327e32dd9b95ea6ee01b44c3200963be8e922606[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 477af6c c103dfd
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Fri May 14 17:42:49 2021 -0300
+
+    Merge branch 'master' of https://github.com/AllanACastro/Projetos_Estudo
+
+[33mcommit 477af6c6a54efe6a1abdd2754b41ad1252a2f0d7[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Fri May 14 17:38:25 2021 -0300
+
+    master
+
+[33mcommit b794839f325300855a1ebea0ec463cef17e8e5e3[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Fri May 14 17:34:47 2021 -0300
+
+    master
+
+[33mcommit c103dfd782768beff80f13ef6d68581f45813c7d[m
+Merge: cc063e2 a95e469
+Author: Allan Castro <83043791+AllanACastro@users.noreply.github.com>
+Date:   Fri May 14 17:26:17 2021 -0300
+
+    Merge pull request #1 from AllanACastro/main
+    
+    mudando nome da pasta de curso phyton
+
+[33mcommit a95e469b5f8c0c35514bfe99981d063df3561bb5[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Fri May 14 17:12:33 2021 -0300
+
+    mudando nome da pasta de curso phyton
+
+[33mcommit cc063e2eeadf613ac7e03f70194a8972c78e5440[m
+Author: Allan Castro <83043791+AllanACastro@users.noreply.github.com>
+Date:   Thu May 13 16:17:27 2021 -0300
+
+    Update README.md
+
+[33mcommit e1e56c9be8b095d2650aa5ac9698b1150bf3b920[m
+Author: Allan Castro <83043791+AllanACastro@users.noreply.github.com>
+Date:   Thu May 13 16:03:19 2021 -0300
+
+    Update README.md
+
+[33mcommit a9420d4414c44cd9f719da073705aa5c6e0007ab[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Thu May 13 12:23:26 2021 -0300
+
+    curso DOM
+
+[33mcommit 8a2ffd811d7a471e85a6c5e9112578f675603cf6[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Thu May 13 12:21:57 2021 -0300
+
+    jogo de logica cursos Alura
+
+[33mcommit 0bf857e128a8d0f55fb90269cdb138b28b1d551e[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Thu May 13 12:17:28 2021 -0300
+
+    curso de html e css Alura
+
+[33mcommit b8b87f01b9ca83fc00c1039449e08b7fcba9c78e[m
+Author: Allan Castro <allanazcastro@gmail.com>
+Date:   Thu May 13 12:09:24 2021 -0300
+
+    first commit
